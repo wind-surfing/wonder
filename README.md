@@ -2,6 +2,10 @@
  
 shader 1, 3, 4 are the basic shader, 2, and 5 are progression of each other and 6 is a different concept using mouse interactions.
 
+## Playlist
+
+https://www.shadertoy.com/playlist/df3Bzr
+
 ## Links
 
 - wonder-shad-1: https://www.shadertoy.com/view/WcsfRf
